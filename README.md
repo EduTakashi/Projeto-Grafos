@@ -230,7 +230,7 @@ Digite a opção (a-o): n
 ## 🔗 Links
 
 - 📁 **GitHub:** [github.com/EduTakashi/Projeto-Grafos](https://github.com/EduTakashi/Projeto-Grafos)
-- 🎥 **Vídeo no YouTube:** *(link após publicação)*
+- 🎥 **Vídeo no YouTube:** [*(Vídeo do projeto*](https://youtu.be/5tUSxaQ9HYk)
 
 ---
 
